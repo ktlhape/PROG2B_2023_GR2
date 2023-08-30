@@ -1,0 +1,15 @@
+D:\VC\PROG6212\GR2\AnonymousTypes\AnonymousTypes\bin\Debug\net7.0\AnonymousTypes.exe
+D:\VC\PROG6212\GR2\AnonymousTypes\AnonymousTypes\bin\Debug\net7.0\AnonymousTypes.deps.json
+D:\VC\PROG6212\GR2\AnonymousTypes\AnonymousTypes\bin\Debug\net7.0\AnonymousTypes.runtimeconfig.json
+D:\VC\PROG6212\GR2\AnonymousTypes\AnonymousTypes\bin\Debug\net7.0\AnonymousTypes.dll
+D:\VC\PROG6212\GR2\AnonymousTypes\AnonymousTypes\bin\Debug\net7.0\AnonymousTypes.pdb
+D:\VC\PROG6212\GR2\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR2\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\PROG6212\GR2\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.AssemblyInfoInputs.cache
+D:\VC\PROG6212\GR2\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.AssemblyInfo.cs
+D:\VC\PROG6212\GR2\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR2\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.dll
+D:\VC\PROG6212\GR2\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\refint\AnonymousTypes.dll
+D:\VC\PROG6212\GR2\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.pdb
+D:\VC\PROG6212\GR2\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\AnonymousTypes.genruntimeconfig.cache
+D:\VC\PROG6212\GR2\AnonymousTypes\AnonymousTypes\obj\Debug\net7.0\ref\AnonymousTypes.dll

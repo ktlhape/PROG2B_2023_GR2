@@ -1,0 +1,8 @@
+D:\VC\PROG6212\GR2\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe.config
+D:\VC\PROG6212\GR2\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.exe
+D:\VC\PROG6212\GR2\ObjectLifetime\ObjectLifetime\bin\Debug\ObjectLifetime.pdb
+D:\VC\PROG6212\GR2\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR2\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6212\GR2\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR2\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.exe
+D:\VC\PROG6212\GR2\ObjectLifetime\ObjectLifetime\obj\Debug\ObjectLifetime.pdb

@@ -1,0 +1,15 @@
+D:\VC\PROG6212\GR2\WinProcesses\WinProcesses\bin\Debug\net7.0\WinProcesses.exe
+D:\VC\PROG6212\GR2\WinProcesses\WinProcesses\bin\Debug\net7.0\WinProcesses.deps.json
+D:\VC\PROG6212\GR2\WinProcesses\WinProcesses\bin\Debug\net7.0\WinProcesses.runtimeconfig.json
+D:\VC\PROG6212\GR2\WinProcesses\WinProcesses\bin\Debug\net7.0\WinProcesses.dll
+D:\VC\PROG6212\GR2\WinProcesses\WinProcesses\bin\Debug\net7.0\WinProcesses.pdb
+D:\VC\PROG6212\GR2\WinProcesses\WinProcesses\obj\Debug\net7.0\WinProcesses.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR2\WinProcesses\WinProcesses\obj\Debug\net7.0\WinProcesses.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\PROG6212\GR2\WinProcesses\WinProcesses\obj\Debug\net7.0\WinProcesses.AssemblyInfoInputs.cache
+D:\VC\PROG6212\GR2\WinProcesses\WinProcesses\obj\Debug\net7.0\WinProcesses.AssemblyInfo.cs
+D:\VC\PROG6212\GR2\WinProcesses\WinProcesses\obj\Debug\net7.0\WinProcesses.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR2\WinProcesses\WinProcesses\obj\Debug\net7.0\WinProcesses.dll
+D:\VC\PROG6212\GR2\WinProcesses\WinProcesses\obj\Debug\net7.0\refint\WinProcesses.dll
+D:\VC\PROG6212\GR2\WinProcesses\WinProcesses\obj\Debug\net7.0\WinProcesses.pdb
+D:\VC\PROG6212\GR2\WinProcesses\WinProcesses\obj\Debug\net7.0\WinProcesses.genruntimeconfig.cache
+D:\VC\PROG6212\GR2\WinProcesses\WinProcesses\obj\Debug\net7.0\ref\WinProcesses.dll

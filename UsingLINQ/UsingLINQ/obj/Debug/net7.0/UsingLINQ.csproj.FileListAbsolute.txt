@@ -1,0 +1,15 @@
+D:\VC\PROG6212\GR2\UsingLINQ\UsingLINQ\bin\Debug\net7.0\UsingLINQ.exe
+D:\VC\PROG6212\GR2\UsingLINQ\UsingLINQ\bin\Debug\net7.0\UsingLINQ.deps.json
+D:\VC\PROG6212\GR2\UsingLINQ\UsingLINQ\bin\Debug\net7.0\UsingLINQ.runtimeconfig.json
+D:\VC\PROG6212\GR2\UsingLINQ\UsingLINQ\bin\Debug\net7.0\UsingLINQ.dll
+D:\VC\PROG6212\GR2\UsingLINQ\UsingLINQ\bin\Debug\net7.0\UsingLINQ.pdb
+D:\VC\PROG6212\GR2\UsingLINQ\UsingLINQ\obj\Debug\net7.0\UsingLINQ.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR2\UsingLINQ\UsingLINQ\obj\Debug\net7.0\UsingLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\VC\PROG6212\GR2\UsingLINQ\UsingLINQ\obj\Debug\net7.0\UsingLINQ.AssemblyInfoInputs.cache
+D:\VC\PROG6212\GR2\UsingLINQ\UsingLINQ\obj\Debug\net7.0\UsingLINQ.AssemblyInfo.cs
+D:\VC\PROG6212\GR2\UsingLINQ\UsingLINQ\obj\Debug\net7.0\UsingLINQ.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR2\UsingLINQ\UsingLINQ\obj\Debug\net7.0\UsingLINQ.dll
+D:\VC\PROG6212\GR2\UsingLINQ\UsingLINQ\obj\Debug\net7.0\refint\UsingLINQ.dll
+D:\VC\PROG6212\GR2\UsingLINQ\UsingLINQ\obj\Debug\net7.0\UsingLINQ.pdb
+D:\VC\PROG6212\GR2\UsingLINQ\UsingLINQ\obj\Debug\net7.0\UsingLINQ.genruntimeconfig.cache
+D:\VC\PROG6212\GR2\UsingLINQ\UsingLINQ\obj\Debug\net7.0\ref\UsingLINQ.dll

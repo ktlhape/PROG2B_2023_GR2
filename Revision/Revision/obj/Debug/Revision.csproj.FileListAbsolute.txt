@@ -1,0 +1,8 @@
+D:\VC\PROG6212\GR2\Revision\Revision\bin\Debug\Revision.exe.config
+D:\VC\PROG6212\GR2\Revision\Revision\bin\Debug\Revision.exe
+D:\VC\PROG6212\GR2\Revision\Revision\bin\Debug\Revision.pdb
+D:\VC\PROG6212\GR2\Revision\Revision\obj\Debug\Revision.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR2\Revision\Revision\obj\Debug\Revision.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6212\GR2\Revision\Revision\obj\Debug\Revision.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR2\Revision\Revision\obj\Debug\Revision.exe
+D:\VC\PROG6212\GR2\Revision\Revision\obj\Debug\Revision.pdb
