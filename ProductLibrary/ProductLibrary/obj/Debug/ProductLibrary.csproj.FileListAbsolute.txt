@@ -1,0 +1,6 @@
+D:\VC\PROG6212\GR2\ProductLibrary\ProductLibrary\bin\Debug\ProductLibrary.dll
+D:\VC\PROG6212\GR2\ProductLibrary\ProductLibrary\bin\Debug\ProductLibrary.pdb
+D:\VC\PROG6212\GR2\ProductLibrary\ProductLibrary\obj\Debug\ProductLibrary.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR2\ProductLibrary\ProductLibrary\obj\Debug\ProductLibrary.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR2\ProductLibrary\ProductLibrary\obj\Debug\ProductLibrary.dll
+D:\VC\PROG6212\GR2\ProductLibrary\ProductLibrary\obj\Debug\ProductLibrary.pdb

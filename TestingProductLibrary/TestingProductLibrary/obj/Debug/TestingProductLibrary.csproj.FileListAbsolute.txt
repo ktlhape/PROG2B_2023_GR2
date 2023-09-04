@@ -1,0 +1,10 @@
+D:\VC\PROG6212\GR2\TestingProductLibrary\TestingProductLibrary\bin\Debug\TestingProductLibrary.exe.config
+D:\VC\PROG6212\GR2\TestingProductLibrary\TestingProductLibrary\bin\Debug\TestingProductLibrary.exe
+D:\VC\PROG6212\GR2\TestingProductLibrary\TestingProductLibrary\bin\Debug\TestingProductLibrary.pdb
+D:\VC\PROG6212\GR2\TestingProductLibrary\TestingProductLibrary\bin\Debug\ProductLibrary.dll
+D:\VC\PROG6212\GR2\TestingProductLibrary\TestingProductLibrary\obj\Debug\TestingProductLibrary.csproj.AssemblyReference.cache
+D:\VC\PROG6212\GR2\TestingProductLibrary\TestingProductLibrary\obj\Debug\TestingProductLibrary.csproj.SuggestedBindingRedirects.cache
+D:\VC\PROG6212\GR2\TestingProductLibrary\TestingProductLibrary\obj\Debug\TestingProductLibrary.csproj.CoreCompileInputs.cache
+D:\VC\PROG6212\GR2\TestingProductLibrary\TestingProductLibrary\obj\Debug\TestingProductLibrary.csproj.CopyComplete
+D:\VC\PROG6212\GR2\TestingProductLibrary\TestingProductLibrary\obj\Debug\TestingProductLibrary.exe
+D:\VC\PROG6212\GR2\TestingProductLibrary\TestingProductLibrary\obj\Debug\TestingProductLibrary.pdb
